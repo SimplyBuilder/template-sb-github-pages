@@ -1,4 +1,4 @@
-## SimplyBuilder GitHub Pages Starter Project    
+## SimplyBuilder GitHub Pages Starter Project Template   
 
 
 ### go to: `settings/pages`
