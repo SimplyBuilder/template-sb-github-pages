@@ -17,3 +17,9 @@ But if you prefer, you can uncomment **lines 6 and 7**, to carry out the automat
 ### execute manual deployments, selecting branch or tag or track the progress of manual or automated deployments in the `Actions` tab of your repository
 
 ### Now your project is live at the url configured in `settings/pages`. Change your files as you wish and make your deployments automatic or controlled.
+
+### Demo online: [https://simplybuilder.github.io/template-sb-github-pages/](https://simplybuilder.github.io/template-sb-github-pages/)
+
+
+## Deploy tag/branch error?
+### see `settings/environments` and customize your rules.
